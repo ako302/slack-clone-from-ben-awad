@@ -30,6 +30,6 @@
     "graphql-tool": "^1.0.0",
     "graphql-tools": "^4.0.5",
     "merge-graphql-schemas": "^1.5.8",
-    "sequelize": "^5.9.0"
+    "sequelize": "^5.15.1"
   }
 }
